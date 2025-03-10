@@ -1,6 +1,22 @@
-Capstone Ideas
+#Capstone Ideas
 
-1. D&D Loot Generator, allows Dungeon Masters (DMs) and players to generate randomized loot based on encounter difficulty, monster type, campaign setting, die roll, or custom parameters. 
+1. **D&D Loot Generator**, allows Dungeon Masters (DMs) and players to generate randomized loot based on encounter difficulty, monster type, campaign setting, die roll, or custom parameters. 
+
+*Most interested in this idea*
+
+ - Option to roll magic items, weapons, coin, scrolls, or custom homebrew items.
+ - Option to roll a virtual die.
+ - Users can create and save custom loot tables.
+ - Inspo: https://www.fantasynamegenerators.com/ 
+ - roll20.net 
+ - APIs:
+     - https://open5e.com/api-docs
+     - https://www.dnd5eapi.co/ 
+ - Stretch goals:
+     - Mini game for 2 people? 
+     - Character roll - set stats, choose class/race, randomly generate some starting items, fill in a digital character sheet, then save all of that
+     - Users have an account, sign in, can create and save 10 character sheets and share them with other users
+
 
 Problem: Dungeon Masters have a lot to plan and design, and sometimes the party makes unexpected decisions that lead to unplanned encounters, and the party expects some loot.
 
