@@ -33,3 +33,16 @@ Solution: A simple digital tracker.
 Problem: Legos are expensive.
 
 Solution: An app that lets you find the best deals.
+
+4. Lord of the Streams: One Search to Rule Them All
+
+Problem: It is frustrating to want to watch a movie but have to spend an extended amount of time trying to figure out what streaming platform has the particular title and if you subscribe to it already.
+
+Solution: A responsive web application that allows users to search for a specific movie title and find what streaming services is carrying it.
+
+User Flow:
+Guest: Visit site > Search movie > View results
+Registered User: Sign up > Set preferences > Search > Save movies or lists > Return later to view saved data
+
+API: https://api.watchmode.com/docs 
+
